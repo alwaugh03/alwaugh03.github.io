@@ -1,11 +1,11 @@
 body {
     font-family: 'Georgia', 'Times New Roman', serif;
-    
-    background-image: url("profile.png");
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-    
+
+    background-image: url("profile.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
     color: #222;
     margin: 0;
     padding: 0;
@@ -42,13 +42,7 @@ a:hover {
     text-decoration: underline;
 }
 
-body {
-    font-family: 'Georgia', 'Times New Roman', serif;
-    background-color: #f7f7f7;
-    color: #222;
-    margin: 0;
-    padding: 0;
-}
+
 
 .main-body {
     max-width: 900px;
